@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi 👋, I'm Bhavana
 
-<!--
-**Bhavana29-cmd/Bhavana29-cmd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Testing Engineer | Manual & Automation Testing
 
-Here are some ideas to get you started:
+🔹 Passionate about software testing  
+🔹 Experience in Manual Testing & Robot Framework  
+🔹 Interested in UI testing, automation, and learning new tools  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Tools & Technologies
+- Manual Testing
+- Robot Framework
+- UI Testing
+- Git & GitHub
+- Basic Python
+
+---
+
+## 📂 Projects
+- Dummy Meter UI Testing (Manual + Automation)
+- UI Validation Test Cases using Robot Framework
+
+---
+
+## 📫 Contact
+tbhavana2905@gmail.com
