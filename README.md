@@ -26,7 +26,8 @@
 - UI Validation Test Cases using Robot Framework
   
 ## 📊 GitHub Stats
-![Bhavana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhavana29-cmd&show_icons=true&theme=default)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhavana29-cmd&show_icons=true)
 
 ---
 
