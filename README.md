@@ -7,8 +7,16 @@
 🔹 Interested in UI testing, automation, and learning new tools  
 
 ---
+## 🚀 Tools & Technologies
 
-## 🔧 Tools & Technologies
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,git,github" />
+</p>
+
+- Robot Framework
+- Manual Testing
+- UI Testing
+
 - Manual Testing
 - Robot Framework
 - UI Testing
