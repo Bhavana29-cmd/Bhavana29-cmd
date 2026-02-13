@@ -25,11 +25,6 @@
 - Dummy Meter UI Testing (Manual + Automation)
 - UI Validation Test Cases using Robot Framework
   
-## 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Bhavana29-cmd&show_icons=true)
-
----
 
 ## 📫 Contact
 tbhavana2905@gmail.com
